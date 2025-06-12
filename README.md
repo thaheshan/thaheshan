@@ -1,26 +1,23 @@
-<h1 align="center">Hey there! 👋 I'm Thaheshan Suresh</h1>
-
+<h1 align="center">👋 Hi, I'm Thaheshan Suresh</h1>
 <p align="center">
-🚀 Future-Ready Software Engineer | 🤖 AI & ML Enthusiast | 🌊 Founder @ VITISCO | 🎤 Public Speaker & Leader | 📍 Sri Lanka
+  🚀 Future-Ready Software Engineer • 🤖 AI & ML Enthusiast • 🌊 Founder @ VITISCO • 🎤 Public Speaker & Leader • 📍 Sri Lanka  
 </p>
 
 ---
 
 ## 💡 About Me
-
-🎓 **Level 5 BSc (Hons) Computer Science Undergraduate**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *University of Westminster @ Informatics Institute of Technology (IIT), Sri Lanka*  
-💬 Trilingual Communicator | 💻 Passionate Full-Stack Developer | 🌱 Growth-Minded Problem Solver | 🎯 Purpose-Driven Innovator
+🎓 **BSc (Hons) Computer Science, Level 5**  
+🏛️ University of Westminster @ IIT Sri Lanka  
+💬 Trilingual Communicator | Full-Stack Dev | 🌱 Growth-Minded | 🎯 Purpose-Driven Innovator
 
 ---
 
-## 🛠️ Projects & Current Work
-
-- ✋🏽 **SignLang** – A React Native + Python-based sign language learning app using ML for gesture recognition.
-- 🌱 **GreenSphere** – A gamified sustainability app promoting eco-friendly urban lifestyles.
-- 🌊 **VITISCO** – Founder of an oceanic adventure startup bridging digital communication gaps in tourism.
-- 💼 Full-stack systems using **.NET**, **Java**, **Spring Boot**, **React**, and **SQL**.
-- 🔧 Prototyping innovative real-world solutions focused on **AI**, **accessibility**, and **impact**.
+## 🛠 Projects & Current Work
+- **SignLang** – React Native + Python app that uses ML for sign-language gesture recognition.
+- **GreenSphere** – Gamified mobile app advocating eco-friendly urban lifestyles.
+- **VITISCO** – Founder of an ocean adventure startup championing digital connectivity in tourism.
+- Full-stack development with **.NET**, **Java**, **Spring Boot**, **React**, **SQL**.
+- Prototyping real-world AI & accessibility solutions.
 
 ---
 
@@ -54,52 +51,57 @@
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thaheshan&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thaheshan&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaheshan&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
 ## 🌱 Currently Exploring
-
-- 🤖 Advanced Machine Learning and Ethical AI  
-- 📱 Cross-platform mobile development with **React Native** and **Flutter**  
-- 🛡️ Cybersecurity, Data Privacy, and Digital Ethics  
-- 🎨 Human-Centered **UI/UX Design** principles
-
----
-
-## 🏆 Awards & Leadership Roles
-
-- 🎓 **Committee Lead** – IET On Campus, IIT  
-- 🌍 **Co-Lead** – Hult Prize 2025 (IIT & Nationals)  
-- 🏆 Finalist – Hackathons including IEEE Xtreme, CodeRally 5.0, Idealize, HAXMAS  
-- 🧠 Developed AI, automation, and full-stack solutions for national-level competitions  
-- 🎙️ Former Vice Captain (Ramakrishna House) & Deputy Prefect – Strong foundation in public speaking & leadership
+- Advanced ML & Ethical AI  
+- React Native / Flutter cross-platform development  
+- Cybersecurity & Data Privacy  
+- Human-Centered UI/UX Design
 
 ---
 
-## 🤝 Let’s Collaborate On
+## 🏆 Awards & Leadership
+- 🎓 Committee Lead – IET On Campus, IIT  
+- 🌍 Co-Lead – Hult Prize 2025 (IIT & National)  
+- 🏁 Finalist – IEEE Xtreme, CodeRally, HAXMAS, Idealize  
+- 🤖 Developed AI-based solutions for national-level competitions  
+- 🎤 Former Vice-Captain & Deputy Prefect – strong leadership & public speaking
 
-- 🌍 Social impact apps powered by AI/ML  
-- 🛠️ Full-stack freelance or open-source projects  
-- 🧪 Research-oriented tech & academic innovations  
-- 💡 Hackathons, Ideathons, and Youth Tech Movements  
+---
+
+## 🤝 Let’s Collaborate
+- 🌍 Social-impact AI/ML apps  
+- 🛠 Full-stack freelance or open-source  
+- 🧪 Academic/tech research  
+- 💡 Hackathons, ideathons, youth-tech workshops
 
 ---
 
 ## 📫 Contact & Connect
-
-- 📧 **Email**: [suresh.20232859@iit.ac.lk](mailto:suresh.20232859@iit.ac.lk)  
-- 🌐 **Portfolio**: [thaheshansuresh.netlify.app](https://thaheshansuresh.netlify.app)  
-- 🧠 **GitHub**: [@thaheshan](https://github.com/thaheshan)  
-- 💼 **LinkedIn**: [Thaheshan Suresh](https://www.linkedin.com/in/thaheshan/)
+- 📧 [suresh.20232859@iit.ac.lk](mailto:suresh.20232859@iit.ac.lk)  
+- 🌐 [Portfolio](https://thaheshansuresh.netlify.app)  
+- 🧠 [GitHub](https://github.com/thaheshan)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/thaheshan/)
 
 ---
 
 ## ⚡ Fun Facts
-
-- 🗣️ Fluent in **English**, **Tamil**, and **Sinhala**  
-- 🎤 Passionate **public speaker** and event host  
-- 🤖 Learned from a robot that didn’t work — now I build smarter ones  
-- 🌟 Motto: *“Listen First, Code Second”*
-
----
+- 🗣️ Fluent in **English**, **Tamil**, **Sinhala**  
+- 🎤 Passionate public speaker & event host  
+- 🤖 Learned from a non-working robot—now building smarter ones  
+- 🌟 *“Listen First, Code Second”*
 
 <p align="center">
-🚀 *Open to internships, freelance roles & collaborations – Let's build for a better future together!*
+🚀✨ Open to internships, freelance roles & collaborations – Let’s build a better future together!
 </p>
