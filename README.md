@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Thaheshan Suresh</h1>
 <p align="center">
-  🚀 Future-Ready Software Engineer • 🤖 AI & ML Enthusiast • 🌊 Founder @ VITISCO • 🎤 Public Speaker & Leader • 📍 Sri Lanka  
+  🚀 Future-Ready Software Engineer • 🤖 AI & ML Enthusiast • 🌊 Founder @ VITISCO @ FUTURA • 🎤 Public Speaker & Leader • 📍 Sri Lanka  
 </p>
 
 ---
