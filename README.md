@@ -15,8 +15,8 @@
 ## 🛠 Projects & Current Work
 - **SignLang** – React Native + Python app that uses ML for sign-language gesture recognition.
 - **GreenSphere** – Gamified mobile app advocating eco-friendly urban lifestyles.
-- **VITISCO** – Founder of an ocean adventure startup championing digital connectivity in tourism.
-- Full-stack development with **.NET**, **Java**, **Spring Boot**, **React**, **SQL**.
+- **VITISCO** – Founder of an Hearing Disability support startup championing digital connectivity.
+- Full-stack development with **React Native**, **Java**, **Spring Boot**, **React**, **SQL**.
 - Prototyping real-world AI & accessibility solutions.
 
 ---
