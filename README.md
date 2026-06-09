@@ -138,7 +138,7 @@ Accessible multilingual learning platform for Deaf individuals. ML-based real-ti
 - 🥇 **COMFIX 2025 Finalist** — VITISCO project — University of Moratuwa
 - 🎓 **IET Standing Committee Lead** — Editorial · Organizing · Finance *(Oct 2024 – Oct 2025)*
 - 🌍 **Hult Prize Committee Co-Lead** — IIT & Nationals *(Feb – May 2025)*
-- 🧑‍💻 **SDGP Mentor** — Guided Linkara team MVP *(Oct – Nov 2024)*
+- 🧑‍💻 **SDGP Mentor** — Guided Linkara team MVP *(Oct 2025 – Mar 2026)*
 - 🏁 Hackathon participant: IEEE Xtreme · CodeRally 5.0 · MORA Xtreme · Idealize · Encide · ComFix · INTERFACEX · Techtriathlon 2025
 
 ---
