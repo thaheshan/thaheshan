@@ -27,9 +27,9 @@ I build production-grade full-stack systems with a focus on clean architecture �
 
 ## Experience
 
-**UI/UX Associate** — Futura Solutions *(Apr 2026 – Present)*  
-**UI/UX Intern** — Futura Solutions *(Apr 2025 – Apr 2026)*  
-**Software Engineer Intern** — Ruach Holdings *(Jun 2025)*  
+**UI/UX Associate** — Futura Solutions *(Jun 2026 – Present)*  
+**Software Enginner** — Futura Solutions *(Jun 2026 – Present)*  
+**Software Engineer Intern** — Ruach Holdings *(Jun 2025 - Jun 2026)*  
 **Software Engineer Intern** — Futura Solutions *(Dec 2024 – Jun 2025)*
 
 ---
